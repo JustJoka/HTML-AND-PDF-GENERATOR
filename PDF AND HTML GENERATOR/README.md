@@ -20,12 +20,3 @@ gera gráficos e exporta relatórios automaticamente em HTML e PDF.
 ```bash
 pip install -r requirements.txt
 python main.py
-Estrutura do CSV
-csv
-Copiar código
-mes,vendas
-Jan,120
-Fev,150
-Mar,180
-Abr,130
-Mai,200
